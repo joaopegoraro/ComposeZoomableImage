@@ -1,3 +1,6 @@
+# Note
+This fork was merged into [umutsoysl's ComposeZoomableImage](https://github.com/umutsoysl/ComposeZoomableImage), so it is now archived.
+
 # ComposeZoomableImage
 Fork of [umutsoysl's ComposeZoomableImage](https://github.com/umutsoysl/ComposeZoomableImage), but with extra features:
 
